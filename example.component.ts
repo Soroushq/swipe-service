@@ -2,8 +2,8 @@ import { Component, OnInit, AfterViewInit, ViewChild, ElementRef, Renderer2 } fr
 import { SwipeService } from '../../services/swipe.service';
 
 @Component({
-  selector: 'news',
-  templateUrl: './news.component.html',
+  selector: 'example',
+  templateUrl: './example.component.html',
   styleUrls: ['./example.component.css']
 })
 export class ExampleComponent implements OnInit, AfterViewInit {
